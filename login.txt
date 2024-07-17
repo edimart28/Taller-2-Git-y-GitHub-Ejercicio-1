@@ -1,6 +1,0 @@
-
-
-1. ingresar al navegador
-2. ingresar a la pagina
-3. ingresar usuario y contraseña
-4. dar clic en ingresar 
