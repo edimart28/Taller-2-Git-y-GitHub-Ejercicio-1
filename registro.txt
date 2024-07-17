@@ -1,7 +1,0 @@
-
-
-1. ingresar url
-2. registrar usuario
-3. registrar contraseña
-4. clic en boton registro
-
